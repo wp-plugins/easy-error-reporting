@@ -11,7 +11,7 @@ This simple plugin sets the error reporting level according to the user role. Th
 
 == Description ==
 
-This plugin helps to debug on production environment. On installation, the subscribers and visitors will not see the PHP errors, warnings or notices but Administrator, Editor, Author and Subscriber will be able to view and debug.
+This plugin helps to debug in production environment. On installation, the Subscribers and Visitors will not see the PHP errors, warnings or notices but Administrators, Editors, Authors and Contributors will be able to view and debug.
 The error reporting level can be set from WP Dashboard >> EER Settings section for each user type. There will be no need to go to config file each time to enable/disable debug mode.
 
 
@@ -33,6 +33,6 @@ Method 2 (WordPress Add New Plugin):
 = Warnings and Notices in admin screen and site?  =
 
 This is actually the purpose of this plugin. It shows all PHP errors, warnings and notices. We can track which component of the wordpress system is giving issue, like, any third party 
-Plugin or template. A correct plugin or template should not throw such warnings or notices. To disable these warnings, Go to Dashboard >> SEE Settings and select "NONE" for each role and Save Config.
+Plugin or template. A correct plugin or template should not throw such warnings or notices. To disable these warnings, Go to Dashboard >> EER Settings and select "NONE" for each role and Save Config.
 
 
