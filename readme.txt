@@ -11,7 +11,7 @@ This simple plugin sets the error reporting level according to the user role. Th
 
 == Description ==
 
-This plugin helps to debug in live site. On installation, the subscribers and visitors will not see the PHP errors, warnings or notices but Administrator, Editor, Author and Subscriber will be able to view and debug.
+This plugin helps to debug on production environment. On installation, the subscribers and visitors will not see the PHP errors, warnings or notices but Administrator, Editor, Author and Subscriber will be able to view and debug.
 The error reporting level can be set from WP Dashboard >> EER Settings section for each user type. There will be no need to go to config file each time to enable/disable debug mode.
 
 
@@ -23,8 +23,8 @@ Activate it.
 
 Method 2 (WordPress Add New Plugin):
 
-    Go to ‘add new’ menu under ‘plugins’ tab in your word-press admin.
-    Search ‘Simple Error Reporting’ plugin using search option.
+    Go to ‘Add New’ menu under ‘Plugins’ tab in your word-press admin.
+    Search ‘Easy Error Reporting’ plugin using search option.
     Find the plugin and click ‘Install Now’ link.
     Finally click activate plug-in link to activate the plug-in.
 
