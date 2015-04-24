@@ -3,7 +3,7 @@ Contributors: manojroka
 Donate link: http://manojroka.com/extensions/
 Tags: comments, spam, debug
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
